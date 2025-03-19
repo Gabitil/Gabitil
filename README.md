@@ -12,10 +12,10 @@ Meu nome é Gabriel Augusto, sou estudante do CEFET-MG em Engenharia de Computa�
 ![](https://nirzak-streak-stats.vercel.app/?user=Gabitil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabitil&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do GitHub
 ![](https://github-profile-trophy.vercel.app/?username=Gabitil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositórios Com Maior Contribuição
 ![](https://github-contributor-stats.vercel.app/api?username=Gabitil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
