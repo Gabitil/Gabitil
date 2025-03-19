@@ -1,7 +1,7 @@
 
 
 ## Sobre Mim
-Meu nome é **Gabriel Augusto**, sou festudante do CEFET-MG em Engenharia de Computação. Possuo experiência em programação em **C**, **Java**, **SQL**, além de desenvolvimento web com **HTML** e **CSS**. Também tenho projetos em **Lua** (como pong e sistemas para Minecraft) e experiência com sistemas embarcados na Cefast Aerospace. Trabalhei como analista de CRM Dynamics na CRM Educacional e estou sempre aberto a novos desafios, seja na área de segurança, criação de aplicativos ou jogos.
+Meu nome é **Gabriel Augusto**, sou estudante do CEFET-MG em Engenharia de Computação. Possuo experiência em programação em **C**, **Java**, **SQL**, além de desenvolvimento web com **HTML** e **CSS**. Também tenho projetos em **Lua** (como pong e sistemas para Minecraft) e experiência com sistemas embarcados na Cefast Aerospace. Trabalhei como analista de CRM Dynamics na CRM Educacional e estou sempre aberto a novos desafios, seja na área de segurança, criação de aplicativos ou jogos.
 
 
 ## 🌐 Socials:
